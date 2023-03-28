@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422ac201fc2890e605637a9"
+  },
+  "DNI": "39485920",
+  "Nombre": "Remiendos",
+  "Apellidos": "García García",
+  "Departamento": {
+    "$oid": "6422ab761fc2890e605637a8"
+  }
+}]

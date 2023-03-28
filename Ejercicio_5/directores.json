@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6422b55886a76aac00610692"
+  },
+  "DNI": "28394053",
+  "NomApels": "Remiendos García",
+  "DNIJefe": null,
+  "Despacho": {
+    "$oid": "6422b47d86a76aac00610691"
+  }
+},{
+  "_id": {
+    "$oid": "6422b58186a76aac00610693"
+  },
+  "DNI": "45694053",
+  "NomApels": "Remiendos López",
+  "DNIJefe": {
+    "$oid": "6422b55886a76aac00610692"
+  },
+  "Despacho": {
+    "$oid": "6422b47d86a76aac00610691"
+  }
+}]

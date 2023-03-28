@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6422b7ed86a76aac00610696"
+  },
+  "CodigoPieza": {
+    "$oid": "6422b73b86a76aac00610694"
+  },
+  "idProveedor": {
+    "$oid": "6422b76b86a76aac00610695"
+  },
+  "Precio": 0.05
+}]

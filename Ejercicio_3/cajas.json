@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422aed61fc2890e605637ab"
+  },
+  "NumReferencia": "12345",
+  "Contenido": "Carbón",
+  "Valor": 50,
+  "Almacen": {
+    "$oid": "6422ae4c1fc2890e605637aa"
+  }
+}]

@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422a9e01fc2890e605637a7"
+  },
+  "Codigo": 1,
+  "Nombre": "Tornillo",
+  "Precio": 50,
+  "Fabricante": {
+    "$oid": "6422a7321fc2890e605637a6"
+  }
+}]

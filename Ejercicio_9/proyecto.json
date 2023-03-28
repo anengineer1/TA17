@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6422c31286a76aac006106a0"
+  },
+  "Id": "1234",
+  "Nombre": "Métodos numéricos",
+  "Horas": 24
+}]
